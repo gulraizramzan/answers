@@ -1,6 +1,6 @@
 # Answers
 **Q # 1.1 Write a code to check difference between null and undefined data type. Also check their type using typeof.**
-
+[comment]: # (This actually is the most platform independent comment)
 Ans: 
 ```js
 var a
