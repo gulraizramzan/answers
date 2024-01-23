@@ -14,6 +14,7 @@ console.log(b,typeof(b))
 Ans: const type variables must be initialized at the time of declaration. If we did not do that there will be syntax error occurs missing initializer in const declaration
 
 **Q# 1.3: Guess the Output and Explain Why?**
+```js
 let languages = 'java javaScript python cSharp';
 
 let result = languages.lastIndexOf('S');
