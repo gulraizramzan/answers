@@ -20,7 +20,7 @@ let languages = 'java javaScript python cSharp';
 let result = languages.lastIndexOf('S');
 
 console.log(result);
-```js
+```
 Ans: The out will be 24 because the lastIndexof() method return the last index value of the specific word. In upper case the S occurs at index of 24 so the result will be 24.
 
 **Q# 1.4: Guess the Output and Explain Why?**
