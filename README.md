@@ -1,12 +1,12 @@
-# answers
+# Answers
 **Q # 1.1 Write a code to check difference between null and undefined data type. Also check their type using typeof.**
 
 Ans: 
-var a
-console.log(a,typeof(a))
+#var a
+#console.log(a,typeof(a))
 // its output will be undefined and type is also undefined because we declare the variable but did not assign value
-var b=null
-console.log(b,typeof(b))
+#var b=null
+#console.log(b,typeof(b))
 // its output null and the type is object
 
 **Q# 1.2: Which type of variables (var, let or const) must be initialized at the time of declaration?**
