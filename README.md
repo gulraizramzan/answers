@@ -6,7 +6,7 @@ Ans:
 var a
 console.log(a,typeof(a))
 ```
-// its output will be undefined and type is also undefined because we declare the variable but did not assign value
+[its output will be undefined and type is also undefined because we declare the variable but did not assign value]
 ```js
 var b=null
 console.log(b,typeof(b))
