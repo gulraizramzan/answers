@@ -28,12 +28,13 @@ console.log(result);
 Ans: The out will be 24 because the lastIndexof() method return the last index value of the specific word. In upper case the S occurs at index of 24 so the result will be 24.
 
 **Q# 1.4: Guess the Output and Explain Why?**
+```js
 let variable = 'hello programmers';
 
 let result = Number(variable);
 
 console.log(result);
-
+```
 Ans: The output will be Nan(Not a number) because the Number method convert the Boolean and dates into number and in upper case the variable has String type values so it output is NaN.
 
 
