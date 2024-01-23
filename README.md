@@ -1,12 +1,12 @@
 # Answers
 **Q # 1.1 Write a code to check difference between null and undefined data type. Also check their type using typeof.**
-[comment]: # (This actually is the most platform independent comment)
+
 Ans: 
 ```js
 var a
 console.log(a,typeof(a))
 ```
-[its output will be undefined and type is also undefined because we declare the variable but did not assign value]
+-its output will be undefined and type is also undefined because we declare the variable but did not assign value
 ```js
 var b=null
 console.log(b,typeof(b))
